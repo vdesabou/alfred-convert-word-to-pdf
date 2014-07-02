@@ -49,7 +49,7 @@
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>Convert Word document to PDF 1.5</string>
+	<string>Convert Word document to PDF 1.6</string>
 	<key>objects</key>
 	<array>
 		<dict>
