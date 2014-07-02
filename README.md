@@ -14,4 +14,4 @@ It is triggered as a File Action, you can also set an hotkey.
 
 Download the workflow below and open in Alfred.
 
-[Download Workflow](https://raw.github.com/vdesabou/alfred-convert-word-to-pdf/master/ConvertWorddocumenttoPDF.alfredworkflow)
+[Download Workflow](https://raw.githubusercontent.com/packal/repository/master/com.vdesabou.convert.word.to.pdf/convert_word_document_to_pdf_1.5.alfredworkflow)
