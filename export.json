@@ -1,8 +1,0 @@
-{
-    "workflow-export" :
-	    {"directory" : "/Users/vincent/Dropbox/Alfred.alfredpreferences/workflows/alfred-convert-word-to-pdf/",
-		 "enable": true},
-    "source-export":
-		{"directory" : "~/Downloads",
-		 "enable": false}
-}
