@@ -49,7 +49,7 @@ done
 unset IFS
 
 osascript <<EOT
-tell application "Alfred 2" to search "${filedirname}/${filename}.pdf"
+tell application "Alfred 3" to search "${filedirname}/${filename}.pdf"
 EOT
 
 exit 0
